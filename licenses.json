@@ -1,49 +1,171 @@
 {
-    "licenses": [
-        {
-            "username": "user_30d_001",
-            "password": "pass_30d_001",
-            "license": "ABCD-1234-EFGH",
-            "hwid": "",
-            "duration_days": 30,
-            "activated": false,
-            "start_date": null
-        },
-        {
-            "username": "user_30d_002",
-            "password": "pass_30d_002",
-            "license": "WXYZ-5678-IJKL",
-            "hwid": "",
-            "duration_days": 30,
-            "activated": false,
-            "start_date": null
-        }
-    ]
-}
-{
   "licenses": [
-    {"key": "1DAY-ABC123-XYZ789", "duration_days": 1},
-    {"key": "1DAY-DEF456-UVW000", "duration_days": 1},
-    {"key": "1DAY-GHI789-RST111", "duration_days": 1},
+    {
+      "username": "user_1d_001",
+      "password": "pass_1d_001",
+      "license": "1D-ABc9X2#7pLq8Z0-WXm9Jk1!",
+      "hwid": "",
+      "duration_days": 1,
+      "activated": false,
+      "start_date": null
+    },
+    {
+      "username": "user_1d_002",
+      "password": "pass_1d_002",
+      "license": "1D-Z7MnX2*PlQ9b8v0-RsTkJw5@",
+      "hwid": "",
+      "duration_days": 1,
+      "activated": false,
+      "start_date": null
+    },
+    {
+      "username": "user_1d_003",
+      "password": "pass_1d_003",
+      "license": "1D-VxR5Lm#9PqAz8t0-UsY1Jk3%",
+      "hwid": "",
+      "duration_days": 1,
+      "activated": false,
+      "start_date": null
+    },
 
-    {"key": "3DAY-ABC123-XYZ789", "duration_days": 3},
-    {"key": "3DAY-DEF456-UVW000", "duration_days": 3},
-    {"key": "3DAY-GHI789-RST111", "duration_days": 3},
+    {
+      "username": "user_3d_001",
+      "password": "pass_3d_001",
+      "license": "3D-Q9X2Lp#7ZABmW08-RsTkJ1!v",
+      "hwid": "",
+      "duration_days": 3,
+      "activated": false,
+      "start_date": null
+    },
+    {
+      "username": "user_3d_002",
+      "password": "pass_3d_002",
+      "license": "3D-Jk18Vz0*YmTqLpRx-KsF5W@3",
+      "hwid": "",
+      "duration_days": 3,
+      "activated": false,
+      "start_date": null
+    },
+    {
+      "username": "user_3d_003",
+      "password": "pass_3d_003",
+      "license": "3D-PQvRzAx#Lm79Y0Bw-UsTkJw%1",
+      "hwid": "",
+      "duration_days": 3,
+      "activated": false,
+      "start_date": null
+    },
 
-    {"key": "7DAY-ABC123-XYZ789", "duration_days": 7},
-    {"key": "7DAY-DEF456-UVW000", "duration_days": 7},
-    {"key": "7DAY-GHI789-RST111", "duration_days": 7},
+    {
+      "username": "user_7d_001",
+      "password": "pass_7d_001",
+      "license": "7D-X0LpQ9ZAmW72#Yv-RsTkJw15!",
+      "hwid": "",
+      "duration_days": 7,
+      "activated": false,
+      "start_date": null
+    },
+    {
+      "username": "user_7d_002",
+      "password": "pass_7d_002",
+      "license": "7D-VmTqLPRxYsK3*8Z0-JkF15@w",
+      "hwid": "",
+      "duration_days": 7,
+      "activated": false,
+      "start_date": null
+    },
+    {
+      "username": "user_7d_003",
+      "password": "pass_7d_003",
+      "license": "7D-PQAxLmY0BwVzRz*9JKsTk%31",
+      "hwid": "",
+      "duration_days": 7,
+      "activated": false,
+      "start_date": null
+    },
 
-    {"key": "15DAY-ABC123-XYZ789", "duration_days": 15},
-    {"key": "15DAY-DEF456-UVW000", "duration_days": 15},
-    {"key": "15DAY-GHI789-RST111", "duration_days": 15},
+    {
+      "username": "user_15d_001",
+      "password": "pass_15d_001",
+      "license": "15D-RzAxLmY0BwVzRz*9JKsTk%31",
+      "hwid": "",
+      "duration_days": 15,
+      "activated": false,
+      "start_date": null
+    },
+    {
+      "username": "user_15d_002",
+      "password": "pass_15d_002",
+      "license": "15D-JkF15WvXRzLmY0BzRz9K%31",
+      "hwid": "",
+      "duration_days": 15,
+      "activated": false,
+      "start_date": null
+    },
+    {
+      "username": "user_15d_003",
+      "password": "pass_15d_003",
+      "license": "15D-PQAxLmY0BwVzRz*9JKsTk%31",
+      "hwid": "",
+      "duration_days": 15,
+      "activated": false,
+      "start_date": null
+    },
 
-    {"key": "30DAY-ABC123-XYZ789", "duration_days": 30},
-    {"key": "30DAY-DEF456-UVW000", "duration_days": 30},
-    {"key": "30DAY-GHI789-RST111", "duration_days": 30},
+    {
+      "username": "user_30d_001",
+      "password": "pass_30d_001",
+      "license": "30D-WLmY0BwVzRz9JKsTk%31*AxP",
+      "hwid": "",
+      "duration_days": 30,
+      "activated": false,
+      "start_date": null
+    },
+    {
+      "username": "user_30d_002",
+      "password": "pass_30d_002",
+      "license": "30D-VmTqLPRxYsK3*8Z0-JkF15@w",
+      "hwid": "",
+      "duration_days": 30,
+      "activated": false,
+      "start_date": null
+    },
+    {
+      "username": "user_30d_003",
+      "password": "pass_30d_003",
+      "license": "30D-PQvRzAx#Lm79Y0Bw-UsTkJw%1",
+      "hwid": "",
+      "duration_days": 30,
+      "activated": false,
+      "start_date": null
+    },
 
-    {"key": "PERM-ABC123-XYZ789", "duration_days": 99999},
-    {"key": "PERM-DEF456-UVW000", "duration_days": 99999},
-    {"key": "PERM-GHI789-RST111", "duration_days": 99999}
+    {
+      "username": "user_perm_001",
+      "password": "pass_perm_001",
+      "license": "PERM-Q9X2Lp#7ZABmW08-RsTkJ1!v",
+      "hwid": "",
+      "duration_days": 99999,
+      "activated": false,
+      "start_date": null
+    },
+    {
+      "username": "user_perm_002",
+      "password": "pass_perm_002",
+      "license": "PERM-VmTqLPRxYsK3*8Z0-JkF15@w",
+      "hwid": "",
+      "duration_days": 99999,
+      "activated": false,
+      "start_date": null
+    },
+    {
+      "username": "user_perm_003",
+      "password": "pass_perm_003",
+      "license": "PERM-PQAxLmY0BwVzRz*9JKsTk%31",
+      "hwid": "",
+      "duration_days": 99999,
+      "activated": false,
+      "start_date": null
+    }
   ]
 }
