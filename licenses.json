@@ -20,3 +20,30 @@
         }
     ]
 }
+{
+  "licenses": [
+    {"key": "1DAY-ABC123-XYZ789", "duration_days": 1},
+    {"key": "1DAY-DEF456-UVW000", "duration_days": 1},
+    {"key": "1DAY-GHI789-RST111", "duration_days": 1},
+
+    {"key": "3DAY-ABC123-XYZ789", "duration_days": 3},
+    {"key": "3DAY-DEF456-UVW000", "duration_days": 3},
+    {"key": "3DAY-GHI789-RST111", "duration_days": 3},
+
+    {"key": "7DAY-ABC123-XYZ789", "duration_days": 7},
+    {"key": "7DAY-DEF456-UVW000", "duration_days": 7},
+    {"key": "7DAY-GHI789-RST111", "duration_days": 7},
+
+    {"key": "15DAY-ABC123-XYZ789", "duration_days": 15},
+    {"key": "15DAY-DEF456-UVW000", "duration_days": 15},
+    {"key": "15DAY-GHI789-RST111", "duration_days": 15},
+
+    {"key": "30DAY-ABC123-XYZ789", "duration_days": 30},
+    {"key": "30DAY-DEF456-UVW000", "duration_days": 30},
+    {"key": "30DAY-GHI789-RST111", "duration_days": 30},
+
+    {"key": "PERM-ABC123-XYZ789", "duration_days": 99999},
+    {"key": "PERM-DEF456-UVW000", "duration_days": 99999},
+    {"key": "PERM-GHI789-RST111", "duration_days": 99999}
+  ]
+}
