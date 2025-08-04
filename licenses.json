@@ -1,3 +1,22 @@
 {
-  "licenses": []
+    "licenses": [
+        {
+            "username": "user_30d_001",
+            "password": "pass_30d_001",
+            "license": "ABCD-1234-EFGH",
+            "hwid": "",
+            "duration_days": 30,
+            "activated": false,
+            "start_date": null
+        },
+        {
+            "username": "user_30d_002",
+            "password": "pass_30d_002",
+            "license": "WXYZ-5678-IJKL",
+            "hwid": "",
+            "duration_days": 30,
+            "activated": false,
+            "start_date": null
+        }
+    ]
 }
